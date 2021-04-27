@@ -1,0 +1,42 @@
+{
+  "name": "video-to-audio",
+  "version": "1.0.0",
+  "description": "A lightweight video to audio conversion tool to convert mp4, avi and mov file to mp3, wav and aac file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvro404/video-to-audio.git"
+  },
+  "keywords": [
+    "video",
+    "audio",
+    "converter",
+    "mp4",
+    "avi",
+    "mov",
+    "mp3",
+    "wav",
+    "aac",
+    "mp4 to mp3",
+    "mp4 to wav",
+    "mp4 to aac",
+    "avi to mp3",
+    "avi to wav",
+    "avi to aac",
+    "mov to mp3",
+    "mov to wav",
+    "mov to aac",
+    "conversion",
+    "convert"
+  ],
+  "author": "Suvro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suvro404/video-to-audio/issues"
+  },
+  "homepage": "https://github.com/suvro404/video-to-audio#readme"
+}
