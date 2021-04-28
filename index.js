@@ -4,7 +4,7 @@ module.exports.convert = function (videoFileData, targetAudioFormat) {
         let reader = new FileReader();
         return new Promise(resolve => {
             reader.onload = function (event) {
-                let contentType = 'video/'+targetAudioFormat;
+                let contentType = 'audio/'+targetAudioFormat;
                 let audioContext = new(window.AudioContext || window.webkitAudioContext)();
                 let myBuffer;
                 const sampleRate = 16000;

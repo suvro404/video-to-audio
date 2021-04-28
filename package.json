@@ -1,6 +1,6 @@
 {
   "name": "video-to-audio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight video to audio conversion tool to convert mp4, avi and mov file to mp3, wav and aac file.",
   "main": "index.js",
   "scripts": {
